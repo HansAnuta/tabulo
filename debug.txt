@@ -1,0 +1,5 @@
+Array
+(
+    [event_name] => CTIS DAY
+    [admin_id] => 4
+)
